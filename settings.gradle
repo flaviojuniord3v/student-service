@@ -1,0 +1,4 @@
+rootProject.name = 'student-service'
+
+//include ':common-api'
+//project(':common-api').projectDir = new File(rootProject.projectDir, '../common')
